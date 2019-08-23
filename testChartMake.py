@@ -1,3 +1,6 @@
+##tests the output by plotting the deaths 
+##of wild parrots every year
+
 import ChartMake
 chart = ChartMake.new_chart()
 ChartMake.set_title(chart, "Wild Parrot Deaths per Year")
